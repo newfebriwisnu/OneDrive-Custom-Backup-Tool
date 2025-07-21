@@ -1,0 +1,52 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+.coverage
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Development files
+test_*.py
+demo_*.py
+dev.py
+temp_*.txt
+
+# GitHub workflows and templates
+.github/
+
+# Release files
+release/
+docs/
+*.md
+!README.md
+
+# Configuration
+config.json

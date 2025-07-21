@@ -1,0 +1,17 @@
+# OneDrive Custom Backup Folder Tool Requirements
+# Python 3.8+ for Windows compatibility
+
+# Runtime dependencies
+# This application uses only Python standard library modules:
+# - tkinter (GUI framework)
+# - subprocess (PowerShell integration)
+# - pathlib (path handling)
+# - os (operating system interface)
+# - sys (system-specific parameters)
+# - argparse (command-line parsing)
+# - logging (logging framework)
+# - json (JSON handling)
+# - threading (multithreading)
+
+# Build dependencies (for creating executable)
+pyinstaller>=5.0
