@@ -44,7 +44,9 @@ temp_*.txt
 
 # Release files
 release/
+release-package/
 docs/
+*.zip
 *.md
 !README.md
 
